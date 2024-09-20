@@ -1,12 +1,6 @@
-## Hi there 👋
+# 💪운동 관련 정보 공유 서비스 HealthGG
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 배포 주소 : https://www.healthgg.store
+- 노션 주소 : https://healthgg.notion.site/HealthGG-2eb7cf34ed20467284b0bfff03de0a0b
+- 포스트맨 주소 : https://documenter.getpostman.com/view/26896889/2sAXjM3WwN
+- 피그마 주소 : https://www.figma.com/design/3ZZ5wdaVFHllOgWbtwzlef/healthgg?node-id=487-2186&t=A7EQGfK9GqmtgIaf-1
