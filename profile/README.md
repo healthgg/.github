@@ -8,5 +8,5 @@
 
 
 
-# 프로젝트 아키텍쳐
+# 🖥프로젝트 아키텍쳐
 ![Frame 16](https://github.com/user-attachments/assets/94b81832-6a72-434c-b3c4-966b8f3abb75)
