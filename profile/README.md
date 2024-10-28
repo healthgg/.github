@@ -58,3 +58,4 @@
 - 클라우드 서비스를 사용하지 않고 호스트 PC에 홈서버 구축
 - VMware를 사용하여 개발 배포서버 구축
   
+![chrome-capture-2024-10-29](https://github.com/user-attachments/assets/43816f6c-8663-4a41-b589-0a0ec3e6d13b)
