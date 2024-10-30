@@ -137,22 +137,75 @@
 ## 📃개발 기간 및 작업 관리
 
 ### 개발 기간
-#### 전체 진행 기간 : 2024-07-14 ~ 2024-09-30
+#### 전체 진행 기간 : 2024-07 ~ 2024-10
 
 ---
 
 ## 💣트러블 슈팅 및 이슈
+- [가상머신 SSH 접속 설정 링크](https://healthgg.notion.site/VM-Ware-ee34c9ee65fb4cf49a6d68f8649a35c8)
+- [서브 도메인 등록 불가 트러블 슈팅 링크](https://healthgg.notion.site/Nginx-2d3c94099c5b4116880f69f2dc07ee05)
 
-
-
-<br>
+---
 
 ## 📝페이지별 기능
 
-#### 메인 페이지
+### [메인 페이지]
 ![chrome-capture-2024-10-30](https://github.com/user-attachments/assets/3ba30321-6276-4d46-89ce-bc1f4f885a61)
 
-#### 프로틴 섭취량 계산기 페이지
+---
+
+
+### [커스텀 운동볼륨 만들기]
+#### 원하는 운동 선택
+![chrome-capture-2024-10-30 (3)](https://github.com/user-attachments/assets/c20881f1-8129-4cb3-9a31-30073017efce)
+
+<br>
+
+#### 공유하기
+![chrome-capture-2024-10-30 (4)](https://github.com/user-attachments/assets/4918d31e-5a0f-45bf-8982-7fe5b66e4fe5)
+
+<br>
+
+#### 운동기구 검색
+![chrome-capture-2024-10-30 (7)](https://github.com/user-attachments/assets/72bf5aef-f6fa-46d6-9c89-75fd6f4abd38)
+
+<br>
+
+#### 운동부위 별 조회
+![chrome-capture-2024-10-30 (8)](https://github.com/user-attachments/assets/f98636d0-2132-4411-b394-881e4912e32e)
+
+
+---
+
+### [커스텀 식단 만들기]
+
+#### 원하는 식단 선택
+![chrome-capture-2024-10-30 (9)](https://github.com/user-attachments/assets/a97665d9-41c2-487c-a1a4-9a0dd05d9f7e)
+
+<br>
+
+#### 영양소 검색
+![chrome-capture-2024-10-30 (5)](https://github.com/user-attachments/assets/661de440-d5f9-4b13-b145-1f2277da4d6b)
+
+<br>
+
+#### 주요 영양소별 조회
+![chrome-capture-2024-10-30 (10)](https://github.com/user-attachments/assets/3acdf89a-526c-4806-8a1d-de19bdd13502)
+
+
+
+---
+
+### [프로틴 섭취량 계산기 페이지]
 ![chrome-capture-2024-10-30 (1)](https://github.com/user-attachments/assets/ca3c65e2-3970-423e-840c-cb4e23a6de9e)
+
+
+---
+
+### [1RM 계산기 페이지]
+![chrome-capture-2024-10-30 (2)](https://github.com/user-attachments/assets/ab9a682e-2253-470f-b9b0-24ec2e104fc3)
+
+
+
 
 
